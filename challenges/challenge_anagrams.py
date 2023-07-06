@@ -1,4 +1,4 @@
-from challenges.util.selection_sort import quicksort
+from challenges.util.quick_sort import quicksort
 
 
 def is_anagram(first_string, second_string):
