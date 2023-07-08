@@ -1,29 +1,29 @@
 <h1>Algorithms</h1>
 
-<p>This is a project for learning and practicing algorithms in Python. It focuses on understanding algorithm complexity, implementing efficient solutions, and writing tests using pytest.</p>
+<p>This is a project for learning and practicing algorithms in Python. It focuses on understanding algorithm complexity, implementing efficient solutions, and writing tests using pytest. 🐍</p>
 
-<h2>Technologies Used</h2>
+<h2>Technologies Used 🛠️</h2>
 
 <p>The project utilizes the following technologies:</p>
 
 <ul>
-  <li>Python</li>
-  <li>Pytest</li>
+  <li>Python 🐍</li>
+  <li>Pytest ✅</li>
 </ul>
 
 <h2>Prerequisites</h2>
 
 <p>Before you begin, ensure that you have Python installed on your machine.</p>
 
-<h2>Description</h2>
+<h2>Description 📝</h2>
 
 <p>This project was created as part of the Trybe curriculum to learn and practice algorithms in Python. It was my first project using Python, and it emphasized the importance of understanding algorithm complexity and implementing efficient solutions. The project also highlighted the significance of writing comprehensive tests using pytest to ensure the correctness of the algorithms.</p>
 
-<h2>Usage</h2>
+<h2>Usage 🚀</h2>
 
 <p>The project consists of various Python files, each containing a different algorithm or problem-solving exercise. The algorithms cover a wide range of topics, including sorting, searching, graph algorithms, and more. Each file contains the algorithm implementation along with corresponding tests written using pytest.</p>
 
-<h2>Contributing</h2>
+<h2>Contributing 🤝</h2>
 
 <p>Contributions are what make the open-source community a fantastic place to learn, inspire, and create. Any contributions you make are greatly appreciated.</p>
 
@@ -35,11 +35,11 @@
   <li>Open a Pull Request.</li>
 </ol>
 
-<h2>License</h2>
+<h2>License 📜</h2>
 
 <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
-<h2>Contact</h2>
+<h2>Contact 📧</h2>
 
 <p>Bruno Souza - <a href="mailto:bmsouza88@gmail.com">bmsouza88@gmail.com</a></p>
 
